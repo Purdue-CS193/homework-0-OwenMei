@@ -1,4 +1,8 @@
 # Owen Mei's First CS19300 Homework
+### Favorite things about CS19300:
+- The Instructors
+- The Jokes
+- The Slides
 
 ## Welcome to GitHub Pages
 
